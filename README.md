@@ -142,7 +142,3 @@ php -S localhost:8000
 3) Commit with clear messages
 4) Open a Pull Request
 
-### License
-
-MIT (or your preferred license)
-
